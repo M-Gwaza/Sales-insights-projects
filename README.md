@@ -98,8 +98,9 @@
 - Loaded the database and it's tables using MySQL Database connector in Power BI
 
 - **The Data Model** in Power BI
-    1. Fact Table being Transactions table
-    2. Dimensions Table being the Cutomers, Markets, Dates and Products table
+    - This is a **Star schema**
+      1. Fact Table being Transactions table
+      2. Dimensions Table being the Cutomers, Markets, Dates and Products table
     
 ![alt text](https://github.com/M-Gwaza/Sales-insights-projects/blob/main/Screenshots/Power-BI/data%20model.png)
 
