@@ -105,5 +105,18 @@
 ![alt text](https://github.com/M-Gwaza/Sales-insights-projects/blob/main/Screenshots/Power-BI/data%20model.png)
 
 - Tranformed data in Power Query
+    - Markets table
+      1. Removed New York and Paris in market-name column using zone column
+      
+      ![alt text](https://github.com/M-Gwaza/Sales-insights-projects/blob/main/Screenshots/Power-BI/power-query/remove%20NY%20and%20Paris.png)
+      
+    - Transactions table
+      1. Removed -1 and 0 in sales_amount column
+
+      ![alt text](https://github.com/M-Gwaza/Sales-insights-projects/blob/main/Screenshots/Power-BI/power-query/remove%20-1%20%26%200.png)
+
+      2. Converted USD currency to INR using a new conditional column
+      
+      ![alt text](https://github.com/M-Gwaza/Sales-insights-projects/blob/main/Screenshots/Power-BI/power-query/convert%20USD%20to%20INR.png)
 
 ### 4. Building a Dashboard using Power BI
