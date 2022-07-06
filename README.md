@@ -40,7 +40,7 @@
       - 20% saved time by Sales analysts to reinvest the time in other activities to better the business
 ### 2. Data Exploration and Analysis using SQL
 
-- **Data source** provided is within the project
+- **Data source** provided is within the project with name [db_dump.sql]()
 - Dataset name is **Sales** with 4 tables namely: 
 
 1. Customers
