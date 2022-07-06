@@ -1,7 +1,8 @@
-# Sales insights project
+![alt text](https://github.com/M-Gwaza/Sales-insights-projects/blob/main/Screenshots/Sales_insights.png)
+
 #### Source
 
-Codebasics tutorials : https://www.youtube.com/watch?v=hhZ62IlTxYs&list=PLeo1K3hjS3utcb9nKtanhcn8jd2E0Hp9b 
+[Codebasics tutorials](https://www.youtube.com/watch?v=hhZ62IlTxYs&list=PLeo1K3hjS3utcb9nKtanhcn8jd2E0Hp9b) 
 
 ###  Overview
 
