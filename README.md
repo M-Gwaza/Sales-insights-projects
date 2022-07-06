@@ -45,8 +45,12 @@
   - Customers
    ![alt text](https://github.com/M-Gwaza/Sales-insights-projects/blob/main/Screenshots/all%20customers-sql.png)
   - Transactions
+   ![alt text](https://github.com/M-Gwaza/Sales-insights-projects/blob/main/Screenshots/All%20transactions.png)
   - Products
-  
+   ![alt text](https://github.com/M-Gwaza/Sales-insights-projects/blob/main/Screenshots/all%20products.png)
+  - Markets
+   ![alt text](https://github.com/M-Gwaza/Sales-insights-projects/blob/main/Screenshots/all%20markets.png)
+   
 - **SQL Queries**
 
 1. All customers
