@@ -129,6 +129,20 @@
      1. Revenue = SUM('sales transactions'[sales_amount])
      2. Total Sales Quantity = SUM('sales transactions'[sales_qty])
 
+-   Building the Dashboard
+      
+      1. Used **Revenue measure** to create a **Card**
+      2. Used **Total Sales Quantity measure** to create another **Card**
+      3. Used the **Revenue and Total Sales Quantity measures** against **date with year table** to create **Line graphs**
+      4. Used **Revenue** to create **Clustered bar charts** against :
+         1. Customer (Filtered Top 5)
+         2. Market   (Filtered Top 5)
+      
+      5. Used **Total Sales Quantity** to create other **Clustered bar charts** against:
+         1. Customer (Filtered Top 5)
+         2. Market   (Filtered Top 5) 
+
+
 ### Final Dashboard Report
 
 ![alt text](https://github.com/M-Gwaza/Sales-insights-projects/blob/main/Screenshots/Power-BI/Dashboard/dashboard%20report.png)
