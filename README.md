@@ -89,4 +89,7 @@
  
 
 ### 3. Data Cleaning and ETL using Power BI
+
+- Loaded the database and it's tables using MySQL Database connector in Power BI
+
 ### 4. Building a Dashboard using Power BI
