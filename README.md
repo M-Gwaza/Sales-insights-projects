@@ -88,5 +88,5 @@
 ![alt text](https://github.com/M-Gwaza/Sales-insights-projects/blob/main/Screenshots/SQL-Queries/All%20transactions%20done%20in%20Chennai%20market%20(count).png)
  
 
-### 3. Data Cleaning and ETL
-### 4. Building a Dashboard
+### 3. Data Cleaning and ETL using Power BI
+### 4. Building a Dashboard using Power BI
