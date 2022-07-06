@@ -43,7 +43,7 @@
 - **Data source** provided is within the project
 - Dataset name is **Sales** with 4 tables namely: 
   - Customers
-   ![alt text]()
+   ![alt text](https://github.com/M-Gwaza/Sales-insights-projects/blob/main/Screenshots/all%20customers-sql.png)
   - Transactions
   - Products
   
