@@ -124,3 +124,7 @@
       ![alt text](https://github.com/M-Gwaza/Sales-insights-projects/blob/main/Screenshots/Power-BI/power-query/remove%20USD%20or%20INR.png)
 
 ### 4. Building a Dashboard using Power BI
+-   Firstly created **base measures**:
+     
+     1. Revenue = SUM('sales transactions'[sales_amount])
+     2. Total Sales Quantity = SUM('sales transactions'[sales_qty])
