@@ -42,17 +42,32 @@
 
 - **Data source** provided is within the project
 - Dataset name is **Sales** with 4 tables namely: 
-  - Customers
+
+1. Customers
+  
    > select * sales.customers
+   
    ![alt text](https://github.com/M-Gwaza/Sales-insights-projects/blob/main/Screenshots/all%20customers-sql.png)
-  - Transactions
+  
+2. Transactions
+   
+   > select sales.transactions
+   
    ![alt text](https://github.com/M-Gwaza/Sales-insights-projects/blob/main/Screenshots/All%20transactions.png)
-  - Products
+3. Products
+  
+   > select * sales.products
+
    ![alt text](https://github.com/M-Gwaza/Sales-insights-projects/blob/main/Screenshots/all%20products.png)
-  - Markets
+ 
+ 4. Markets
+   
+   > select * sales.markets
+   
    ![alt text](https://github.com/M-Gwaza/Sales-insights-projects/blob/main/Screenshots/all%20markets.png)
    
-- **SQL Queries**
+   
+ **SQL Queries to analyze the data**
 
 1. All customers
 2. 
