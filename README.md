@@ -92,4 +92,8 @@
 
 - Loaded the database and it's tables using MySQL Database connector in Power BI
 
+- **The Data Model** in Power BI
+
+![alt text](https://github.com/M-Gwaza/Sales-insights-projects/blob/main/Screenshots/Power-BI/data%20model.png)
+
 ### 4. Building a Dashboard using Power BI
