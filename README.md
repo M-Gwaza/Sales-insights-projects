@@ -45,32 +45,48 @@
 
 1. Customers
   
-   > select * sales.customers
+   > SELECT * sales.customers
    
-   ![alt text](https://github.com/M-Gwaza/Sales-insights-projects/blob/main/Screenshots/all%20customers-sql.png)
+   ![alt text](https://github.com/M-Gwaza/Sales-insights-projects/blob/main/Screenshots/SQL-Queries/all%20customers-sql.png)
   
 2. Transactions
    
-   > select sales.transactions
+   > SELECT sales.transactions
    
-   ![alt text](https://github.com/M-Gwaza/Sales-insights-projects/blob/main/Screenshots/All%20transactions.png)
+   ![alt text](https://github.com/M-Gwaza/Sales-insights-projects/blob/main/Screenshots/SQL-Queries/All%20transactions.png)
 3. Products
   
-   > select * sales.products
+   > SELECT * sales.products
 
-   ![alt text](https://github.com/M-Gwaza/Sales-insights-projects/blob/main/Screenshots/all%20products.png)
+   ![alt text](https://github.com/M-Gwaza/Sales-insights-projects/blob/main/Screenshots/SQL-Queries/all%20products.png)
  
  4. Markets
    
-   > select * sales.markets
+   > SELECT * sales.markets
    
-   ![alt text](https://github.com/M-Gwaza/Sales-insights-projects/blob/main/Screenshots/all%20markets.png)
+   ![alt text](https://github.com/M-Gwaza/Sales-insights-projects/blob/main/Screenshots/SQL-Queries/all%20markets.png)
    
    
  **SQL Queries to analyze the data**
 
-1. All customers
-2. 
+1. All transactions count
+
+> SELECT count(*) FROM sales.transactions  ;
+
+![alt text](https://github.com/M-Gwaza/Sales-insights-projects/blob/main/Screenshots/SQL-Queries/All%20transactions%20(count).png)
+
+2. All transactions count done in Chennai market
+
+> SELECT count(*) FROM sales.transactions where market_code = "Mark001";
+
+![alt text](https://github.com/M-Gwaza/Sales-insights-projects/blob/main/Screenshots/SQL-Queries/All%20transactions%20done%20in%20Chennai%20market%20(count).png)
+
+3. All transactions in year 2019
+
+> SELECT sales.transactions.*, sales.date.date FROM sales.transactions INNER JOIN sales.date ON sales.transactions.order_date = sales.date.date where sales.date.year = 2019
+
+![alt text](https://github.com/M-Gwaza/Sales-insights-projects/blob/main/Screenshots/SQL-Queries/All%20transactions%20done%20in%20Chennai%20market%20(count).png)
  
+
 ### 3. Data Cleaning and ETL
 ### 4. Building a Dashboard
