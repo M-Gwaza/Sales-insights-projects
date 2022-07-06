@@ -118,5 +118,9 @@
       2. Converted USD currency to INR using a new conditional column
       
       ![alt text](https://github.com/M-Gwaza/Sales-insights-projects/blob/main/Screenshots/Power-BI/power-query/convert%20USD%20to%20INR.png)
+      
+      3. Remove duplicated currency of USD and INR in new currency
+
+      ![alt text](https://github.com/M-Gwaza/Sales-insights-projects/blob/main/Screenshots/Power-BI/power-query/remove%20USD%20or%20INR.png)
 
 ### 4. Building a Dashboard using Power BI
