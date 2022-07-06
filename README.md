@@ -100,6 +100,7 @@
 - **The Data Model** in Power BI
     1. Fact Table being Transactions table
     2. Dimensions Table being the Cutomers, Markets, Dates and Products table
+    
 ![alt text](https://github.com/M-Gwaza/Sales-insights-projects/blob/main/Screenshots/Power-BI/data%20model.png)
 
 ### 4. Building a Dashboard using Power BI
