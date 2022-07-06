@@ -146,3 +146,10 @@
 ### Final Dashboard Report
 
 ![alt text](https://github.com/M-Gwaza/Sales-insights-projects/blob/main/Screenshots/Power-BI/Dashboard/dashboard%20report.png)
+
+
+### Key Takeaways
+
+-  Electricalsara Stores is the number one customer
+-  Delhi NCR is the number one market where business is good
+-  Business was good in 2018 but after that it declined
