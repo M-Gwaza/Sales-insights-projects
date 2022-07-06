@@ -1,4 +1,4 @@
-![alt text](https://github.com/M-Gwaza/Sales-insights-projects/blob/main/Screenshots/Sales_insights.png)
+![alt text](https://github.com/M-Gwaza/Sales-insights-projects/blob/main/Screenshots/Sales.png)
 
 #### Source
 
