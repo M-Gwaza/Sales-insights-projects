@@ -41,6 +41,12 @@
 ### 2. Data Exploration and Analysis using SQL
 
 - **Data source** provided is within the project
+- Dataset name is **Sales** with 4 tables namely: 
+  - Customers
+   ![alt text]()
+  - Transactions
+  - Products
+  
 - **SQL Queries**
 
 1. All customers
