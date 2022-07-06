@@ -128,3 +128,7 @@
      
      1. Revenue = SUM('sales transactions'[sales_amount])
      2. Total Sales Quantity = SUM('sales transactions'[sales_qty])
+
+### Final Dashboard Report
+
+![alt text](https://github.com/M-Gwaza/Sales-insights-projects/blob/main/Screenshots/Power-BI/Dashboard/dashboard%20report.png)
