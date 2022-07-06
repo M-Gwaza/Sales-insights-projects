@@ -41,6 +41,10 @@
 ### 2. Data Exploration and Analysis using SQL
 
 - **Data source** provided is within the project
+- **SQL Queries**
+
+1. All customers
+2. 
  
 ### 3. Data Cleaning and ETL
 ### 4. Building a Dashboard
