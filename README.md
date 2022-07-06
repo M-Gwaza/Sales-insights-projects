@@ -104,4 +104,6 @@
     
 ![alt text](https://github.com/M-Gwaza/Sales-insights-projects/blob/main/Screenshots/Power-BI/data%20model.png)
 
+- Cleaning data in Power Query
+
 ### 4. Building a Dashboard using Power BI
