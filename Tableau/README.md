@@ -24,8 +24,11 @@
      
     ![alt text](https://github.com/M-Gwaza/Sales-insights-projects/blob/main/Tableau/Screenshots/transactions.png)
      
-     2. Markets
-     3. Date
+ 2. Markets
+ 
+    ![alt text](https://github.com/M-Gwaza/Sales-insights-projects/blob/main/Tableau/Screenshots/customers.png) 
+ 
+ 3. Date
      4. Customers
      5. Products
 
