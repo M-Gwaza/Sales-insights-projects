@@ -18,16 +18,14 @@
 ### Table of contents
 
 1. The Data Source
-    1. The tables
-    2. The Data Model
 2. Data Cleaning
 3. Data Visualization
 
-### 1.The Data Source
+### 1. The Data Source
 
 - A connection was made to MySQLWorkbench referencing the previous [Sales Insights Project](https://github.com/M-Gwaza/Sales-insights-projects/edit/main/README.md)
 
-  #### i. The Tables
+  #### The Tables
 
         1. Transactions
      
@@ -49,7 +47,7 @@
  
     ![alt text](https://github.com/M-Gwaza/Sales-insights-projects/blob/main/Tableau/Screenshots/products.png)
     
-#### ii. The Data Model
+#### The Data Model
 - The tables are linked in a Star Schema format:
 
         1. Fact Table being Transactions table
