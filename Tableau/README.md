@@ -14,11 +14,20 @@
 - Everything about the project was already done in [Sales Insights Project](https://github.com/M-Gwaza/Sales-insights-projects/edit/main/README.md)
 - Here, Data exploration, ETL( Extract, Transform and Load), Analysis and Visualization processes were showcased in Tableau.
 
-### The Data Source
+
+### Table of contents
+
+1. The Data Source
+    1. The tables
+    2. The Data Model
+2. Data Cleaning
+3. Data Visualization
+
+### 1.The Data Source
 
 - A connection was made to MySQLWorkbench referencing the previous [Sales Insights Project](https://github.com/M-Gwaza/Sales-insights-projects/edit/main/README.md)
 
-  #### The Tables
+  #### i. The Tables
 
         1. Transactions
      
@@ -40,7 +49,7 @@
  
     ![alt text](https://github.com/M-Gwaza/Sales-insights-projects/blob/main/Tableau/Screenshots/products.png)
     
-#### The Data Model
+#### ii. The Data Model
 - The tables are linked in a Star Schema format:
 
         1. Fact Table being Transactions table
