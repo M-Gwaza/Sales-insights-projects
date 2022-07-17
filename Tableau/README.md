@@ -26,9 +26,16 @@
      
  2. Markets
  
-    ![alt text](https://github.com/M-Gwaza/Sales-insights-projects/blob/main/Tableau/Screenshots/customers.png) 
+    ![alt text](https://github.com/M-Gwaza/Sales-insights-projects/blob/main/Tableau/Screenshots/markets.png) 
  
  3. Date
-     4. Customers
-     5. Products
 
+    ![alt text](https://github.com/M-Gwaza/Sales-insights-projects/blob/main/Tableau/Screenshots/date.png)
+
+ 4. Customers
+ 
+    ![alt text](https://github.com/M-Gwaza/Sales-insights-projects/blob/main/Tableau/Screenshots/customers.png)
+ 
+ 5. Products
+ 
+    ![alt text](https://github.com/M-Gwaza/Sales-insights-projects/blob/main/Tableau/Screenshots/products.png)
