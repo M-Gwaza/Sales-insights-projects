@@ -59,6 +59,45 @@
 
 - Three processes were done to clean the raw data from MySql Database:
       
-      1. Filter
-      2. hh
-      3. jj
+      1. Filter out Transactions Table Sales Amount Column with values less than 1
+      
+            Before
+            
+            
+            Action
+      
+    ![alt text](https://github.com/M-Gwaza/Sales-insights-projects/blob/main/Tableau/Screenshots/filter_sales_amount_less%20_than_1.png)
+      
+            After
+            
+            
+      
+      2. Correct Transactions Table Currency Column with duplicated values INR and USD
+      
+      
+            Before
+            
+            
+            Action
+      
+    ![alt text](https://github.com/M-Gwaza/Sales-insights-projects/blob/main/Tableau/Screenshots/filter_usd_inr.png)
+      
+            After
+            
+            
+      
+      
+      3. Filter out Market Name with values are NY and Paris (since the focus is on India)
+
+      
+            Before
+            
+            
+            Action
+      
+   ![alt text](https://github.com/M-Gwaza/Sales-insights-projects/blob/main/Tableau/Screenshots/filter_market_name_ny_paris.png)
+      
+            After
+            
+            
+      
