@@ -80,9 +80,11 @@
       
      ![alt text](https://github.com/M-Gwaza/Sales-insights-projects/blob/main/Tableau/Screenshots/filter_market_name_ny_paris.png)
             
-      4. Created a Calculated Column Field in Transactions Table where Currency is USD by multiplying it's Sales amount by 74 to convert it to INR
+      4. Created a Calculated Column Field in Transactions Table where Currency is USD
+      
+    - Multiplied Sales amount by 74 to convert Sales Amount to INR
       
      Action
      
-     ![alt text]()
+     ![alt text](https://github.com/M-Gwaza/Sales-insights-projects/blob/main/Tableau/Screenshots/calculated_sales_amount.png)
       
