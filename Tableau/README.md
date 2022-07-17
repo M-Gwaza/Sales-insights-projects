@@ -88,3 +88,5 @@
      
      ![alt text](https://github.com/M-Gwaza/Sales-insights-projects/blob/main/Tableau/Screenshots/calculated_sales_amount.png)
       
+### 2. Data Visualization
+
