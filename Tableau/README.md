@@ -29,7 +29,7 @@
 
         1. Transactions
      
-    ![alt text](https://github.com/M-Gwaza/Sales-insights-projects/blob/main/Tableau/Screenshots/transactions.png)
+  ![alt text](https://github.com/M-Gwaza/Sales-insights-projects/blob/main/Tableau/Screenshots/transactions.png)
      
         2. Markets
  
