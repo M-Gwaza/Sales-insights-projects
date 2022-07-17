@@ -54,3 +54,11 @@
         2. Dimension Tables being Markets, Date, Customers and Products
   
   ![alt text](https://github.com/M-Gwaza/Sales-insights-projects/blob/main/Tableau/Screenshots/Star%20schema.png)
+
+### 2. Data Cleaning
+
+- Three processes were done to clean the raw data from MySql Database:
+      
+      1. Filter
+      2. hh
+      3. jj
