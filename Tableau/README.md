@@ -61,14 +61,15 @@
       
       1. Filter out Transactions Table Sales Amount Column with values less than 1
       
-            Before
+        Before
+       
+    ![alt text](https://github.com/M-Gwaza/Sales-insights-projects/blob/main/Tableau/Screenshots/transactions_sales_amount.png)
             
-            
-            Action
+        Action
       
     ![alt text](https://github.com/M-Gwaza/Sales-insights-projects/blob/main/Tableau/Screenshots/filter_sales_amount_less%20_than_1.png)
       
-            After
+        After
             
             
       
