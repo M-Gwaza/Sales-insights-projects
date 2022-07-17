@@ -90,4 +90,4 @@
       
 ### 2. Data Visualization
 
-![alt text](https://github.com/M-Gwaza/Sales-insights-projects/blob/main/Tableau/Screenshots/Dashboard.png)
+     ![alt text](https://github.com/M-Gwaza/Sales-insights-projects/blob/main/Tableau/Screenshots/Dashboard.png)
