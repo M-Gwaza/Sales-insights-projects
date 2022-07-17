@@ -18,24 +18,24 @@
 
 - A connection was made to MySQLWorkbench referencing the previous [Sales Insights Project](https://github.com/M-Gwaza/Sales-insights-projects/edit/main/README.md)
 
-#### The Tables
+  #### The Tables
 
- 1. Transactions
+        1. Transactions
      
     ![alt text](https://github.com/M-Gwaza/Sales-insights-projects/blob/main/Tableau/Screenshots/transactions.png)
      
- 2. Markets
+        2. Markets
  
     ![alt text](https://github.com/M-Gwaza/Sales-insights-projects/blob/main/Tableau/Screenshots/markets.png) 
  
- 3. Date
+        3. Date
 
     ![alt text](https://github.com/M-Gwaza/Sales-insights-projects/blob/main/Tableau/Screenshots/date.png)
 
- 4. Customers
+        4. Customers
  
     ![alt text](https://github.com/M-Gwaza/Sales-insights-projects/blob/main/Tableau/Screenshots/customers.png)
  
- 5. Products
+        5. Products
  
     ![alt text](https://github.com/M-Gwaza/Sales-insights-projects/blob/main/Tableau/Screenshots/products.png)
