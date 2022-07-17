@@ -1,7 +1,7 @@
 
-### Source
+### Tableau Dashboard
 
-[Codebasics tutorials](https://www.youtube.com/watch?v=hhZ62IlTxYs&list=PLeo1K3hjS3utcb9nKtanhcn8jd2E0Hp9b) 
+[Click here](https://public.tableau.com/app/profile/moses.gwaza/viz/SalesInsightsProject_16580764028480/Dashboard1) 
 
 ###  Overview
 
