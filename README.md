@@ -153,3 +153,7 @@
 -  Electricalsara Stores is the number one customer
 -  Delhi NCR is the number one market where business is good
 -  Business was good in 2018 but after that it declined
+
+### PROJECT IN TABLEAU
+
+[CLICK HERE](https://github.com/M-Gwaza/Sales-insights-projects/tree/main/Tableau)
