@@ -145,7 +145,7 @@
 
 ### Final Dashboard Report
 
-![alt text](https://github.com/M-Gwaza/Sales-insights-projects/blob/main/Screenshots/Power-BI/Dashboard/dashboard%20report.png)
+![alt text](https://github.com/M-Gwaza/Sales-insights-projects/blob/main/Screenshots/Power-BI/Dashboard/sales%20insights.png)
 
 
 ### Key Takeaways
